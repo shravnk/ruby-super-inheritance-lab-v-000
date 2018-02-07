@@ -1,3 +1,5 @@
+require relative("./lib/student.rb")
+
 def ChattyStudent < Student
   def hello
     super
